@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TVmaze</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <string name="action_list_view">Cambiar Vista</string>
+
+    <!-- TITLE DIALOGS -->
+    <string name="error">Error</string>
+    <string name="information">Información</string>
+    <string name="warning">Advertencia</string>
+    <string name="problems">Problemas</string>
+    <string name="cancel">Cancelar</string>
+    <string name="please_wait">Por favor espere</string>
+    <string name="unauthorized">No autorizado</string>
+    <string name="success">Exitoso</string>
+    <string name="question">¿Estas seguro?</string>
+    <string name="add_observation">Agregar observacion</string>
+
+    <!-- MESSAGES ERROR-->
+    <string name="timeout">Hay problemas intentando conectarse a los servidores.\n\nPor favor, verifique que posee conexión a internet.</string>
+    <string name="server_error">Tenemos problemas con los servidores. Inténtelo más tarde y disculpe las molestias ocacionadas</string>
+    <string name="bad_request">El servicio presenta inconvenientes para procesar su solicitud. Inténtelo más tarde y notifíquenos si este error continúa</string>
+    <string name="service_not_found">Servicio no encontrado. Inténtelo más tarde y notifíquenos si este error continúa</string>
+    <string name="unauthorized_user">Lo sentimos, pero no está autorizado para ejecutar esta acción.\n\nIntente iniciar sesión nuevamente</string>
+    <string name="login_error">Usuario o contraseña inválida</string>
+    <string name="msg_error_no_response">Error en el servidor. Comunicación fallida</string>
+
+    <!-- GENERAL -->
+    <string name="accept">Aceptar</string>
+
+
+    <!-- DETALLE SHOW -->
+    <string name="schedule">Horario:</string>
+    <string name="duration">Duración:</string>
+    <string name="genres">Generos:</string>
+    <string name="status">Estado:</string>
+
+
+</resources>
+
